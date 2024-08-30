@@ -1,4 +1,4 @@
-# YClone
+# CloneY
 This is basically clone of YouTube with some videos and multiple tabs in sidebar with is build up with HTML and CSS.
 <p></p>
 <img src="https://github.com/user-attachments/assets/1be88355-4320-4634-9066-e80ab5bfde12"></img>
