@@ -1,0 +1,12 @@
+@media only screen and (min-width: 625px) and (max-width: 970px) {
+    /*without small sider with search,mic,all three buttons */    
+}
+@media only screen and (min-width: 970px) and (max-width: 1650px) {
+    /*with small sider with 3 button (home, shorts, subscriptions,you) */
+
+    .sidebar{
+        position: sticky;
+        width: 5%;
+        margin-right: 15px;
+    }
+}
